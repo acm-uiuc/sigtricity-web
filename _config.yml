@@ -30,7 +30,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   ACM@UIUC:
-    - 'https://acm.illinios.edu'
+    - 'https://acm.illinois.edu'
 footer_content:
 nav_external_links:
   - title: Calendar
