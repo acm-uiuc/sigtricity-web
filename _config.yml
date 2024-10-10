@@ -17,8 +17,8 @@ title: SIGExample
 tagline: A group focused on an area of computing.
 description: A modern, highly customizable, responsive Jekyll template for ACM SIG websites
 author: SIGExample
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://sigtricity.acm.illinois.edu' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/sigtricity-web/' # the subpath of your site, e.g. /blog
+url: 'https://acm-uiuc.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 # logo: "/assets/images/acm-wordmark-light.png"
 
