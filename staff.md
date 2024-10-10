@@ -6,7 +6,7 @@ description: A listing of all our leadership members.
 
 # Leadership
 
-<> Leadership information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+# Leadership information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
 ## Chairs
 
