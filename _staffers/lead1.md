@@ -1,9 +1,9 @@
 ---
-name: John Doe
-role: Lead
-meta: [['Infrastructure Lead']]
+name: Noah Rockoff
+role: Chair
+meta: [['Chair']]
 pronouns: he/him
-email: lead@illinois.edu
+email: noahlr2@illinois.edu
 website: https://cs.illinois.edu
 photo: kevin.jpg
 ---
