@@ -20,7 +20,7 @@ author: Noah Rockoff
 baseurl: '/sigtricity-web/' # the subpath of your site, e.g. /blog
 url: 'https://acm-uiuc.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-# logo: "/assets/images/acm-wordmark-light.png"
+logo: "/assets/images/sigt.png"
 
 # Theme settings
 remote_theme: acm-uiuc/sig-website-jekyll-theme@v0.11.1
