@@ -17,8 +17,8 @@ title: SIGtricity
 tagline: A group focused on making electrical engineering concepts available to everyone.
 description: 
 author: Noah Rockoff
-baseurl: '/sigtricity-web/' # the subpath of your site, e.g. /blog
-url: 'https://acm-uiuc.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://sigtricity.acm.illinois.edu' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/images/sigt.png"
 
