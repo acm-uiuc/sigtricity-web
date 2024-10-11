@@ -1,5 +1,28 @@
----
+<!---
 layout: article
 # articles:
 #   excerpt_type: html
+--->
 ---
+layout: article
+title: Home
+article_header:
+  type: cover
+  image:
+    src: /assets/images/sigt.png  # Replace with the actual path to your cover image
+  alt: "Welcome to Sigtricity"  # Alternative text for accessibility
+  title: "Welcome to Sigtricity"
+  subtitle: "Bringing Power to You"
+show_title: false
+---
+
+<div class="layout--home">
+  <!-- Blog post listings -->
+  {%- include paginator.html -%}
+</div>
+
+{{ content }}
+
+<script>
+  {%- include scripts/home.js -%}
+</script>
