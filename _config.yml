@@ -24,7 +24,7 @@ logo: "/assets/images/sigt.png"
 
 # Theme settings
 remote_theme: acm-uiuc/sig-website-jekyll-theme@v0.11.1
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
