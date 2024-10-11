@@ -1,6 +1,6 @@
 ---
 name: Noah Rockoff
-role: Founder
+role: Chair
 meta: [['Chair']]
 pronouns: he/him
 email: noahlr2@illinois.edu
