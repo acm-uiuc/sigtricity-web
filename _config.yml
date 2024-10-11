@@ -18,7 +18,7 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-baseurl: '/sigtricity-web/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://sigtricity.acm.illinois.edu/' # the base hostname & protocol for your site, e.g. http://example.com
 
 title   : Your Site Title
