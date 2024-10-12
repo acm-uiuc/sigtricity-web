@@ -4,9 +4,9 @@ title: Meetings
 description: Listing of SIG meetings and topics.
 ---
 
-# Meetings
+# Events
 
-**Usually, we will meet in every Friday from 5-6pm in Siebel 2102.**
+**We will update this page whenever we have events planned.**
 
 {% for module in site.modules %}
 {{ module }}
