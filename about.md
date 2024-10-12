@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Us
 description: >-
-    SIGExample information.
+    About Us page for SIGtricity
 ---
 
-# About
+# About Us
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,18 @@ description: >-
 
 ---
 
-## About
+## About Us
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Sigtricity aims to give any student, regardless of experience level or major, exposure to the field of electrical engineering. We aim to do so by hosting topic reviews, workshops, projects, and other events, open to any student. No former knowledge is required for anything we host. We aim to be beginner friendly and accept members from all different ages, majors, and experience levels. If there is a topic you are passionate about or a topic you want to learn about, feel free to bring up your ideas to someone apart of our leadership team. We encourage members to become involved and even lead their own events if they wish. 
 
-## Lecture
+## Topic Reviews
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Topic reviews are interactive sessions that aim to provide a broad overview of a suggested topic. These reviews will be in a format that is easily digestible for students to understand to cater to all different levels of understanding or experience. Topic reviews will be interactive, and not just sitting in a room listening to someone talking. (We don't want more lectures!) Some examples of interaction may be Kahoot, a demo, a game, or potentially even trips.
 
-## Resources
+## Workshops
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+Workshops serve to give members a physical or digital project they can call their own. There is a gap in electrical and computer engineering where everyone wants a project, but not many know where to start. We aim to bridge that gap by providing members the materials and resources they need to create something. By the end of these workshops, we will ensure everyone is able to understand what they made at a high enough level where they can put a project on their resume and talk about it.
 
-## Assignments
+## Projects (Start TBD)
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Projects are for our more dedicated members who are willing to consistently work on a larger project. These larger projects will be more complicated and open ended, however they will also be more fun. We are currently open to suggestions for semester-long projects. Feel free to suggest a project in our discord, or message someone on the leadership team.
