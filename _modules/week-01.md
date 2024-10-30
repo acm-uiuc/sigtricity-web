@@ -3,7 +3,7 @@ title: SIGTricity Meetings
 ---
 
 November 20th
-:**FIRST MEETINGe**{: .label .label-red }[Informational Meeting](#)
+: **FIRST MEETING**{: .label .label-red }[Informational Meeting](#)
 <!--  : [1.1](#)
 
 Sep 29
