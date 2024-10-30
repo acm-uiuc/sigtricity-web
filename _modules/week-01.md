@@ -4,9 +4,9 @@ title: SIGTricity Meetings
 
 November 20th
 : **FIRST MEETING**{: .label .label-red }[Informational Meeting](#)
-<!--  : [1.1](#)
+  : [Room TBA](#)
 
-Sep 29
+<!--  Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
