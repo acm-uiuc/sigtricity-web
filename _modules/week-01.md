@@ -2,7 +2,7 @@
 title: SIGTricity Meetings
 ---
 
-November 20th
+Nov 20th
 : **FIRST MEETING**{: .label .label-red }[Informational Meeting](#)
   : [Room TBA](#)
 
