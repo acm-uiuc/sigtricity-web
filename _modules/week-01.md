@@ -1,10 +1,10 @@
 ---
-title: Introduction to SIGExample
+title: SIGTricity Meetings
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+November 20th
+:**FIRST MEETINGe**{: .label .label-red }[Informational Meeting](#)
+<!--  : [1.1](#)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
@@ -21,3 +21,4 @@ Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
+--->
