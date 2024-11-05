@@ -18,6 +18,7 @@ description: A listing of all our leadership members.
 {% assign leads = site.staffers | where: 'role', 'Lead' %}
 {% assign num_leads = leads | size %}
 {% if num_leads != 0 %}
+
 ## Leads
 
 {% for staffer in leads %}
