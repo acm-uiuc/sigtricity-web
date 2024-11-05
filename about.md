@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 description: >-
-    About Us page for SIGtricity
+    About Us page for Sigtricity
 ---
 
 # About Us

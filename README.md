@@ -1,14 +1,9 @@
----
-layout: home
-title: Home
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: {{ site.title }}
----
+# Sigtricity
 
-# {{site.title}}
+Welcome to the ACM@UIUC Sigtricity website! 
+
+# Development Guide
+
 This repository is a GitHub Pages template developed for the purpose of quickly deploying SIG websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
@@ -21,21 +16,6 @@ This template that extends the popular [Just the Docs](https://github.com/just-t
 - automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
 - instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
 - and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
-
-# Recent Announcements
-
-{% assign announcements = site.announcements | reverse %}
-{% assign announcement_count = announcements | size %}
-
-<div class="announcements-list">
-{% for announcement in announcements limit:5 %}
-  {{ announcement }}
-{% endfor %}
-</div>
-
-{% if announcement_count > 5 %}
-  <a href="/announcements" class="see-all-link">See All Announcements</a>
-{% endif %}
 
 ## Getting Started
 
