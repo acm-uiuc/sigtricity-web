@@ -2,9 +2,9 @@
 title: SIGTricity Meetings
 ---
 
-Nov 20th
-: **FIRST MEETING**{: .label .label-red }[Informational Meeting](#)
-  : [Room TBA](#)
+Nov 20
+: **FIRST MEETING**{: .label .label-red }[Informational Meeting](/announcements/)
+  : 6-7PM, ECEB 4070
 
 <!--  Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
