@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 description: >-
-    About Us page for Sigtricity
+    About Us page for SIGtricity
 ---
 
 # About Us
@@ -18,7 +18,7 @@ description: >-
 
 ## About Us
 
-Sigtricity aims to give any student, regardless of experience level or major, exposure to the field of electrical engineering. We aim to do so by hosting topic reviews, workshops, projects, and other events, open to any student. No former knowledge is required for anything we host. We aim to be beginner friendly and accept members from all different ages, majors, and experience levels. If there is a topic you are passionate about or a topic you want to learn about, feel free to bring up your ideas to someone apart of our leadership team. We encourage members to become involved and even lead their own events if they wish. 
+SIGtricity aims to give any student, regardless of experience level or major, exposure to the field of electrical engineering. We aim to do so by hosting topic reviews, workshops, projects, and other events, open to any student. No former knowledge is required for anything we host. We aim to be beginner friendly and accept members from all different ages, majors, and experience levels. If there is a topic you are passionate about or a topic you want to learn about, feel free to bring up your ideas to someone apart of our leadership team. We encourage members to become involved and even lead their own events if they wish. 
 
 ## Topic Reviews
 

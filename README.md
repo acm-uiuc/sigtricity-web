@@ -1,6 +1,6 @@
-# Sigtricity
+# SIGtricity
 
-Welcome to the ACM@UIUC Sigtricity website! 
+Welcome to the ACM@UIUC SIGtricity website! 
 
 # Development Guide
 

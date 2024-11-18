@@ -1,5 +1,5 @@
 ---
-title: SIGTricity Meetings
+title: SIGtricity Meetings
 ---
 
 Nov 20
